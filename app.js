@@ -1,5 +1,4 @@
-//You will build this project using pure Node to gain a thorough understanding of Node. There are obviously easier ways of building this project using external modules, but that is the purpose of this project as you would miss out on many code concepts.
-
+//server setup
 
 //require node modules
 const http = require('http');
