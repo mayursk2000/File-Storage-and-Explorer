@@ -1,7 +1,7 @@
 {
   "name": "fileexplorer",
   "version": "1.0.0",
-  "description": "",
+  "description": "store, view and retrieve files",
   "main": "app.js",
   "directories": {
     "lib": "lib"
